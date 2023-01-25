@@ -9,9 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "13.1.5",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "next": "12.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "@wistia/react-embeds": "file:../wistia-react"
   },
   "devDependencies": {
     "eslint": "8.32.0",
